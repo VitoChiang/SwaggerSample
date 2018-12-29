@@ -1,1 +1,1 @@
-﻿alert('Inject Javascript!');
+﻿$('#input_apiKey').hide();
